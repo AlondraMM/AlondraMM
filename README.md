@@ -1,6 +1,6 @@
 <div align="center">
     <h1 align="center"> Hola, soy Alondra Matos 👋 </h1>
-    <img src="https://drive.google.com/uc?id=1lTROimZ-cbT4irzX93o4TvICcYM20-Yh"  style="width:100%; max-width:1000px;">
+    <img src="https://drive.google.com/uc?id=1d-ksruIN-5pS64g8vzn4IekBqG6bP1EZ"  style="width:100%; max-width:1000px;">
 </div>
 
 
