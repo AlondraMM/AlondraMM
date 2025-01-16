@@ -1,7 +1,9 @@
 <div align="center">
     <h1 align="center"> Hola, soy Alondra Matos 👋 </h1>
-    <img src="https://drive.google.com/uc?id=1fq9VNuuEL1cQaCXj_XekgpOGzGdkbkRL">
+    <img src="https://drive.google.com/uc?id=1lTROimZ-cbT4irzX93o4TvICcYM20-Yh"  style="width:100%; max-width:1000px;">
 </div>
+
+
 
 <!--
 **AlondraMM/AlondraMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
