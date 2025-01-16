@@ -1,7 +1,8 @@
 <div align="center">
-    <h1 align="center"> Hola, soy Alondra Matos 👋😄 </h1>
-    <img src="https://drive.google.com/uc?id=14WUitvtrQfJiQyqYofwN0-qw3JfKxdBC"  style="width:100%;">
+    <h1 align="center"> Hola, soy <span style="color: #E77F69;">Alondra Matos</span> 👋😄 </h1>
+    <img src="https://drive.google.com/uc?id=14WUitvtrQfJiQyqYofwN0-qw3JfKxdBC" style="width:100%;">
 </div>
+
 
 ### **🌟 Acerca de mí**
 - 📊 Especialista en modelación matemática y estadística con aplicación a la ciencia de datos.
@@ -11,7 +12,9 @@
 ### **💬 Contacto**
 - 🌐 [Página web]()  
 - 💼 [LinkedIn](www.linkedin.com/in/alondra-matos)  
-- 📧 Correo electrónico: [alondramatosm@gmail.com]  
+- 📧 Correo electrónico: [alondramatosm@gmail.com]
+
+### **📂 Proyectos destacados**
 
 <!--
 **AlondraMM/AlondraMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
