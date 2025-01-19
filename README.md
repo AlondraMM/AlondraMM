@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 align="center"> Hola, soy <span style="color: #E77F69;">Alondra Matos</span> 👋😄 </h1>
+    <h1 align="center"> Hola, soy <span style="color: #E77F69;">Alondra Matos</span> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">😄 </h1>
     <img src="https://drive.google.com/uc?id=14WUitvtrQfJiQyqYofwN0-qw3JfKxdBC">
 </div>
 
@@ -12,15 +12,54 @@
 - 📊 Especialista en modelación matemática y estadística con aplicación a la ciencia de datos.
 - 🤖 Apasionada por construir modelos predictivos, encontrar patrones y resolver problemas complejos.
 - 📚 Siempre aprendiendo sobre aprendizaje automático y aprendizaje profundo.
+- 🤝 Estoy disponible para trabajar como freelance.
 
 ### **💬 Contáctame**
 - 🌐 [Página web]()  
 - 💼 [LinkedIn](https://www.linkedin.com/in/alondra-matos)
 - 📧 Correo electrónico: [alondramatosm@gmail.com]
 
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<p align="center">
+
+- **Languages**:
+    
+     <img src="https://user-images.githubusercontent.com/64439609/212555599-9b7ae14f-093a-41bf-8cb8-3cdefd418636.png" width="40" height="40" />
+  
+- **Front-End Development**:
+
+   <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
+   <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
+   <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS"/>
+
+
+
+- **Softwares and Tools**:
+
+    <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
+    <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
+    <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/>
+    <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
+
+
+
+ 
+
+<br>
+</p>
+
+> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
+> -- Steve Jobs
+
+----
+
 ### **📂 Proyectos destacados**
 
 <!--
+👋😄
 **AlondraMM/AlondraMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://drive.google.com/uc?id=14WUitvtrQfJiQyqYofwN0-qw3JfKxdBC" style="width:100%;">
 Here are some ideas to get you started:
