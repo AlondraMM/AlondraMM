@@ -1,7 +1,11 @@
 <div align="center">
     <h1 align="center"> Hola, soy <span style="color: #E77F69;">Alondra Matos</span> 👋😄 </h1>
-    <img src="https://drive.google.com/uc?id=14WUitvtrQfJiQyqYofwN0-qw3JfKxdBC" style="width:100%;">
+    <img src="https://drive.google.com/uc?id=14WUitvtrQfJiQyqYofwN0-qw3JfKxdBC">
 </div>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://drive.google.com/uc?id=1Nh--eutdkG8xx5XQy3G8tm9_j-_1xYNR">
+</a>
 
 
 ### **🌟 Acerca de mí**
@@ -9,16 +13,16 @@
 - 🤖 Apasionada por construir modelos predictivos, encontrar patrones y resolver problemas complejos.
 - 📚 Siempre aprendiendo sobre aprendizaje automático y aprendizaje profundo.
 
-### **💬 Contacto**
+### **💬 Contáctame**
 - 🌐 [Página web]()  
-- 💼 [LinkedIn](www.linkedin.com/in/alondra-matos)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alondra-matos)
 - 📧 Correo electrónico: [alondramatosm@gmail.com]
 
 ### **📂 Proyectos destacados**
 
 <!--
 **AlondraMM/AlondraMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://drive.google.com/uc?id=14WUitvtrQfJiQyqYofwN0-qw3JfKxdBC" style="width:100%;">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
