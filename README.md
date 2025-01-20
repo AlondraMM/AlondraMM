@@ -9,10 +9,10 @@
   <img align="right" top="500" height="300" width="300" alt="GIF" src="https://drive.google.com/uc?id=1Nh--eutdkG8xx5XQy3G8tm9_j-_1xYNR">
 </a>
 
-- 📊 Especialista en modelación matemática y estadística con aplicación a la ciencia de datos.
+- 📊 **Especialista en modelación matemática y estadística** con aplicación a la ciencia de datos.
 - 🤖 Apasionada por construir modelos predictivos, encontrar patrones y resolver problemas complejos.
-- 📚 Siempre aprendiendo sobre aprendizaje automático y aprendizaje profundo.
-- 🤝 Estoy disponible para trabajar como freelance.
+- 📚 Comprometida con seguir aprendiendo y explorando las fronteras del **aprendizaje automático** y el **aprendizaje profundo**.
+- 🤝 **Disponible para proyectos freelance:** Si buscas **análisis avanzados**, **modelos predictivos** o **soluciones personalizadas**, hablemos y llevemos tu proyecto **al siguiente nivel**.  
 
 ### **💬 Contáctame**
 - 🌐 [Página web]()  
@@ -21,7 +21,7 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías y herramientas </b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías y herramientas favoritas </b>
 
 <p align="center">
 
@@ -75,10 +75,10 @@
 <br>
 </p>
 
-> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
-> -- Steve Jobs
+> "Los datos son el nuevo petróleo, pero sin refinar no tienen valor. La ciencia de datos transforma números en decisiones inteligentes."
 
 ----
+
 
 
 
