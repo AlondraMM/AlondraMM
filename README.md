@@ -6,7 +6,7 @@
 
 ### **🌟 Acerca de mí**
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://drive.google.com/uc?id=1Nh--eutdkG8xx5XQy3G8tm9_j-_1xYNR">
+  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/user-attachments/assets/e1324af4-83f4-47f3-8ca0-7ce8b6c8753f">
 </a>
 
 - 📊 **Especialista en modelación matemática y estadística** con aplicación a la ciencia de datos.
@@ -48,7 +48,7 @@
      <img src="https://img.shields.io/badge/Scrapy-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/user-attachments/assets/1291c346-9553-4858-b71a-0ab168e395e1">
+  <img align="right" top="500" height="300" width="300" alt="GIF" src="https://github.com/user-attachments/assets/984c6cfd-b8f5-4695-bb4c-1a7c5c76a1f1">
 </a>
 
 - **Bases de datos**:
